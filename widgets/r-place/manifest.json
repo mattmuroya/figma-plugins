@@ -1,0 +1,12 @@
+{
+  "name": "r-place",
+  "id": "1141970141994005493",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma",
+    "figjam"
+  ],
+  "containsWidget": true,
+  "widgetApi": "1.0.0"
+}
